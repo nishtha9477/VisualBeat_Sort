@@ -1,0 +1,14 @@
+body{
+ background-image: url(s.jpg); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn{
+    background-color: rgb(230, 176, 123);
+}
+
+/* h1{
+    color: rgb(135, 206, 235);
+} */
